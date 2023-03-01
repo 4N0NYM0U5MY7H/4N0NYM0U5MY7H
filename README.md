@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **4N0NYM0U5MY7H/4N0NYM0U5MY7H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="Capgemini India coding hackathon capgemini techchallenge2020 Sticker." width="100"/>
+<div id="badges">
+</div>
+  <img src="https://komarev.com/ghpvc/?username=4N0NYM0U5MY7H&style=flat-square&color=blue" alt="AnonymousMyth GitHub profile view count badge."/>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Animated hand waving hello." width="30px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="LF DIGITAL marketing webdesign analytics avento GIF." width="600px"/>
+</div>
 
+---
+### :man_technologist: About Me
+I am a Computer Science student at Oregon State University.
+
+---
 ### :hammer_and_wrench: Languages and Tools
+
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python icon." width="40" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest icon." width="40" />&nbsp;
