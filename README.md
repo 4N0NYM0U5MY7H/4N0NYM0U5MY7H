@@ -16,8 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ### :fire: My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=4N0NYM0U5MY7H&theme=highcontrast)](https://git.io/streak-stats)
 
+<picture>
+<source
+        srcset="https://streak-stats.demolab.com?user=4N0NYM0U5MY7H&theme=highcontrast"
+        media="(prefers-color-scheme: dark)"
+/>
+<source
+        srcset="https://streak-stats.demolab.com?user=4N0NYM0U5MY7H"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"      
+/>
+<img src="https://streak-stats.demolab.com?user=4N0NYM0U5MY7H" />
+</picture>
+<br />
 <picture>
 <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=4N0NYM0U5MY7H&layout=compact&count_private=true&theme=vision-friendly-dark"
