@@ -26,7 +26,7 @@ Here are some ideas to get you started:
         srcset="https://streak-stats.demolab.com?user=4N0NYM0U5MY7H"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"      
 />
-<img src="https://streak-stats.demolab.com?user=4N0NYM0U5MY7H" />
+<img src="https://streak-stats.demolab.com?user=4N0NYM0U5MY7H" alt="User AnonymousMyth GitHub contributions streak statistics." />
 </picture>
 <br />
 <picture>
@@ -38,5 +38,5 @@ Here are some ideas to get you started:
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=4N0NYM0U5MY7H&layout=compact&count_private=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4N0NYM0U5MY7H&layout=compact&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4N0NYM0U5MY7H&layout=compact&count_private=true" alt="User AnonymousMyth public GitHub repository programming langauage usage statistics." />
 </picture>
