@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### :fire: My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=4N0NYM0U5MY7H&theme=github-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=4N0NYM0U5MY7H&theme=github-dark&ring=D73F09&stroke=D73F09&border=D73F09&dates=FFB500&fire=FFB500)](https://git.io/streak-stats)
