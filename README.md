@@ -18,10 +18,13 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="Capgemini India coding hackathon capgemini techchallenge2020 Sticker." width="100"/>
 <div id="badges">
   <a href="https://github.com/parasiticfrisk">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge."/>
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge."/>
   </a>
   <a href="https://www.linkedin.com/in/august-frisk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge."/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge."/>
+  </a>
+  <a href="https://www.youtube.com/@obad-hai/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube badge."/>
   </a>
   <a href="https://replit.com/@4N0NYM0U5MY7H">
     <img src="https://img.shields.io/badge/Replit-F26206?logo=replit&logoColor=white&style=for-the-badge" alt="Replit badge."/>
@@ -43,6 +46,8 @@ Here are some ideas to get you started:
 ---
 ### :man_technologist: About Me
 I am a Computer Science student at Oregon State University.
+
+- :seedling: In my free time, I study ethology and contribute to citizen science projects [![iNaturalist Badge](https://img.shields.io/badge/iNaturalist-74AC00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4T2NkoBAw4tL/HwgYgYCQ+XgNAGn+++/XVxZmdh5cBjG++nTTVpRX7RBMwe+/36axsXBng/ggV4DoL79ebuRllwjAZgjcBTDFyIpAXoCJ4/IOiheINQRZHV4XwFzz/sdjO0EO2UM/fr+fwcEqmAETB7kKxQW//37/wcLEwY7Nr9//fpzGycyfhe5FjFj49efbd1ZmTg5C0ffk4+k0WQGz2RgGYAsHrKEPdT3WdECMITDvE0xpyOkBOfDgbEJ+xRW1RBmArvnn3y/TOFh4wakUpwHf/79Q5GAQv4es6Mevd6c42YXN8SZlQl7BJQ8ASa9sDUq4ciMAAAAASUVORK5CYII=)](https://www.inaturalist.org/people/obad-hai)
 
 ---
 ### :hammer_and_wrench: Languages and Tools
