@@ -17,17 +17,20 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="Capgemini India coding hackathon capgemini techchallenge2020 Sticker." width="100"/>
 <div id="badges">
+  <a href="https://github.com/parasiticfrisk">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge."/>
+  </a>
+  <a href="https://www.linkedin.com/in/august-frisk/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge."/>
+  </a>
+  <a href="https://replit.com/@4N0NYM0U5MY7H">
+    <img src="https://img.shields.io/badge/Replit-F26206?logo=replit&logoColor=white&style=for-the-badge" alt="Replit badge."/>
+  </a>
   <a href="https://learn.unity.com/u/604ba327edbc2a0021432996?tab=profile">
     <img src="https://img.shields.io/badge/Unity_Learn-black?logo=unity&logoColor=white&style=for-the-badge" alt="Unity Learn badge."/>
   </a>
-    <a href="https://www.linkedin.com/in/august-frisk/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge."/>
-  </a>
-    <a href="https://github.com/parasiticfrisk">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge."/>
-  </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=4N0NYM0U5MY7H&style=flat-square&color=blue" alt="AnonymousMyth GitHub profile view count badge."/>
+  <img src="https://komarev.com/ghpvc/?username=4N0NYM0U5MY7H&style=flat-square&color=blue" alt="GitHub profile view count badge."/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Animated hand waving hello." width="30px"/>
