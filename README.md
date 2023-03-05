@@ -36,9 +36,9 @@ Here are some ideas to get you started:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Animated hand waving hello." width="30px"/>
   </h1>
 </div>
-<div align="center">
+<!--<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="LF DIGITAL marketing webdesign analytics avento GIF." width="600px"/>
-</div>
+</div>-->
 
 ---
 ### :man_technologist: About Me
