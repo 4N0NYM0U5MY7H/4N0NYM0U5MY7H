@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="Capgemini India coding hackathon capgemini techchallenge2020 Sticker." width="100"/>
+<img src=".github/git-header.svg" alt="Octocat on a nature trail."/>
+<h1>August Frisk (@AN0NYM0U5MY7H)</h1>
 <div id="badges">
   <a href="https://github.com/parasiticfrisk">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge."/>
@@ -30,15 +31,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Unity_Learn-black?logo=unity&logoColor=white&style=for-the-badge" alt="Unity Learn badge."/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=4N0NYM0U5MY7H&style=flat-square&color=blue" alt="GitHub profile view count badge."/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Animated hand waving hello." width="30px"/>
-  </h1>
 </div>
-<!--<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="LF DIGITAL marketing webdesign analytics avento GIF." width="600px"/>
-</div>-->
 
 ---
 ### :man_technologist: About Me
