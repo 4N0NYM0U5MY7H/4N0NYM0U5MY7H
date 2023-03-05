@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 </div>
 
 ---
-### :man_technologist: About Me
+### About Me :man_technologist:
 I am a Computer Science student at Oregon State University.
 
-- :seedling: In my free time, I study ethology and contribute to citizen science projects.
+- In my free time, I study ethology and contribute to citizen science projects :seedling:.
   - [![iNaturalist badge](https://img.shields.io/badge/iNaturalist-74AC00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4T2NkoBAw4tL/HwgYgYCQ+XgNAGn+++/XVxZmdh5cBjG++nTTVpRX7RBMwe+/36axsXBng/ggV4DoL79ebuRllwjAZgjcBTDFyIpAXoCJ4/IOiheINQRZHV4XwFzz/sdjO0EO2UM/fr+fwcEqmAETB7kKxQW//37/wcLEwY7Nr9//fpzGycyfhe5FjFj49efbd1ZmTg5C0ffk4+k0WQGz2RgGYAsHrKEPdT3WdECMITDvE0xpyOkBOfDgbEJ+xRW1RBmArvnn3y/TOFh4wakUpwHf/79Q5GAQv4es6Mevd6c42YXN8SZlQl7BJQ8ASa9sDUq4ciMAAAAASUVORK5CYII=)](https://www.inaturalist.org/people/obad-hai)
   [![BugGuide badge](https://img.shields.io/badge/BugGuide-red?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgElEQVQ4T61TQQ7AIAibj/Fd+9rexWcmkECYaWQJcDGRUkqVcR3i5RgcJ4wnBWxAK4oEKC94yG6F+4mUfAhiFwgG4ygBET1zzvs0q8rl2H1Rgqxz9Maw5pMyZp0Rgd9VCERFSUGZwP/B3zGiYjex5RnN0UwJ2ou+r9y6THGkbJ0Xl3KACTitBiEAAAAASUVORK5CYII=)](https://bugguide.net/user/view/149082)
   [![YouTube badge](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@obad-hai/)
@@ -45,7 +45,7 @@ I am a Computer Science student at Oregon State University.
 
 
 ---
-### :hammer_and_wrench: Languages and Tools
+### Languages and Tools :hammer_and_wrench:
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python icon." width="40" />&nbsp;
@@ -122,7 +122,7 @@ I am a Computer Science student at Oregon State University.
 </div>
 
 ---
-### :fire: My Stats
+### My Stats :fire:
 
 <picture>
   <source
