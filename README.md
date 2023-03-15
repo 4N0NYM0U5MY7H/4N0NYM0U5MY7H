@@ -105,8 +105,9 @@ I am a Computer Science student at Oregon State University.
 </picture>&nbsp;
 </div>
 
----
-### My Stats
+<hr />
+<details>
+<summary><h3>My Stats</h3></summary>
 
 <picture>
   <source
@@ -131,3 +132,4 @@ I am a Computer Science student at Oregon State University.
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4N0NYM0U5MY7H&layout=compact&count_private=true" alt="User AnonymousMyth public GitHub repository programming langauage usage statistics." />
 </picture>
+</details>
