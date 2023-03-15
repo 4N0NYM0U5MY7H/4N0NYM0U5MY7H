@@ -1,20 +1,27 @@
 <div id="header" align="center">
-<img src=".github/git-header.svg" alt="Octocat on a nature trail."/>
-<h2>August Frisk (@AN0NYM0U5MY7H)</h2>
-<div id="badges">
-  <a href="https://github.com/parasiticfrisk">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge."/>
-  </a>
-  <a href="https://www.linkedin.com/in/august-frisk/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge."/>
-  </a>
-  <a href="https://replit.com/@4N0NYM0U5MY7H">
-    <img src="https://img.shields.io/badge/Replit-F26206?logo=replit&logoColor=white&style=for-the-badge" alt="Replit badge."/>
-  </a>
-  <a href="https://learn.unity.com/u/604ba327edbc2a0021432996?tab=profile">
-    <img src="https://img.shields.io/badge/Unity_Learn-black?logo=unity&logoColor=white&style=for-the-badge" alt="Unity Learn badge."/>
-  </a>
-</div>
+  <img src=".github/git-header.svg"
+       alt="Octocat on a nature trail." />
+  <h2>
+    August Frisk (@AN0NYM0U5MY7H)
+  </h2>
+  <div id="badges">
+    <a href="https://github.com/parasiticfrisk">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
+           alt="GitHub badge." />
+    </a>
+    <a href="https://www.linkedin.com/in/august-frisk/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
+           alt="LinkedIn badge." />
+    </a>
+    <a href="https://replit.com/@4N0NYM0U5MY7H">
+      <img src="https://img.shields.io/badge/Replit-F26206?logo=replit&logoColor=white&style=for-the-badge"
+           alt="Replit badge." />
+    </a>
+    <a href="https://learn.unity.com/u/604ba327edbc2a0021432996?tab=profile">
+      <img src="https://img.shields.io/badge/Unity_Learn-black?logo=unity&logoColor=white&style=for-the-badge"
+           alt="Unity Learn badge." />
+    </a>
+  </div>
 </div>
 
 ---
@@ -32,77 +39,76 @@ I am a Computer Science student at Oregon State University.
 ### Languages and Tools
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python icon." width="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest icon." width="40" />&nbsp;
-<picture>
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB icon." width="40" />
-</picture>&nbsp;
-<picture>
-  <source
-    srcset="https://github.com/4N0NYM0U5MY7H/4N0NYM0U5MY7H/blob/main/.github/express-plain-wordmark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express JS icon." width="40" />&nbsp;
-</picture>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React icon." width="40" />&nbsp;
-<picture>
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node JS icon." width="40" />
-</picture>&nbsp;
-<picture>
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML 5 icon." width="40" />&nbsp;
-</picture>&nbsp;
-<picture>
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS 3 icon." width="40" />
-</picture>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript icon." width="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest icon." width="40" />&nbsp;
-<picture>
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git icon." width="40" />
-</picture>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
+       alt="Python icon." width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"
+       alt="Pytest icon." width="40" />&nbsp;
+  <picture>
+    <source 
+            srcset="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"
+            media="(prefers-color-scheme: dark)" />
+    <source
+            srcset="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+         alt="Mongo DB icon." width="40" />
+  </picture>&nbsp;
+  <picture>
+    <source
+            srcset="https://github.com/4N0NYM0U5MY7H/4N0NYM0U5MY7H/blob/main/.github/express-plain-wordmark.svg"
+            media="(prefers-color-scheme: dark)" />
+    <source
+            srcset="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
+         alt="Express JS icon." width="40" />
+  </picture>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+       alt="React icon." width="40" />&nbsp;
+  <picture>
+    <source
+            srcset="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
+            media="(prefers-color-scheme: dark)" />
+    <source
+            srcset="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+         alt="Node JS icon." width="40" />
+  </picture>&nbsp;
+  <picture>
+    <source
+            srcset="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"
+            media="(prefers-color-scheme: dark)" />
+    <source
+            srcset="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
+         alt="HTML 5 icon." width="40" />&nbsp;
+  </picture>&nbsp;
+  <picture>
+    <source
+            srcset="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
+            media="(prefers-color-scheme: dark)" />
+    <source
+            srcset="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
+         alt="CSS 3 icon." width="40" />
+  </picture>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+       alt="JavaScript icon." width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
+       alt="Jest icon." width="40" />&nbsp;
+  <picture>
+    <source
+            srcset="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"
+            media="(prefers-color-scheme: dark)" />
+    <source
+            srcset="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+         alt="Git icon." width="40" />
+  </picture>&nbsp;
 </div>
 
 <!---------------------------------------------------------------------
@@ -110,39 +116,40 @@ I am a Computer Science student at Oregon State University.
 ----------------------------------------------------------------------->
 <hr />
 <details>
-<summary><h3>My Stats</h3></summary>
-<picture>
-  <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"      
-  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github" alt="GitHub user contribution statistics." />
-</picture>
-<br />
-<picture>
-  <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github" alt="GitHub top languages by repo statistics." />
-</picture>
-<picture>
-  <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github_dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github" alt="GitHub top languages by commit statistics." />
-</picture>
+  <summary>
+    <h3>
+      My Stats
+    </h3>
+  </summary>
+  <picture>
+    <source
+            srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github_dark"
+            media="(prefers-color-scheme: dark)" />
+    <source
+            srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github"
+         alt="GitHub user contribution statistics." />
+  </picture>
+  <br />
+  <picture>
+    <source
+            srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github_dark"
+            media="(prefers-color-scheme: dark)" />
+    <source
+            srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github"
+         alt="GitHub top languages by repo statistics." />
+  </picture>
+  <picture>
+    <source
+            srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github_dark"
+            media="(prefers-color-scheme: dark)" />
+    <source
+            srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github"
+         alt="GitHub top languages by commit statistics." />
+  </picture>
 </details>
