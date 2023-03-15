@@ -105,31 +105,44 @@ I am a Computer Science student at Oregon State University.
 </picture>&nbsp;
 </div>
 
+<!---------------------------------------------------------------------
+ - GitHub Statisics
+----------------------------------------------------------------------->
 <hr />
 <details>
 <summary><h3>My Stats</h3></summary>
-
 <picture>
   <source
-    srcset="https://streak-stats.demolab.com?user=4N0NYM0U5MY7H&theme=highcontrast"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://streak-stats.demolab.com?user=4N0NYM0U5MY7H"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"      
   />
-  <img src="https://streak-stats.demolab.com?user=4N0NYM0U5MY7H" alt="User AnonymousMyth GitHub contributions streak statistics." />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github" alt="GitHub user contribution statistics." />
 </picture>
 <br />
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=4N0NYM0U5MY7H&layout=compact&count_private=true&theme=vision-friendly-dark"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github_dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=4N0NYM0U5MY7H&layout=compact&count_private=true"
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4N0NYM0U5MY7H&layout=compact&count_private=true" alt="User AnonymousMyth public GitHub repository programming langauage usage statistics." />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github" alt="GitHub top languages by repo statistics." />
+</picture>
+<picture>
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github" alt="GitHub top languages by commit statistics." />
 </picture>
 </details>
