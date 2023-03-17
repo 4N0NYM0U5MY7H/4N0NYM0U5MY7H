@@ -30,11 +30,14 @@ I am a Computer Science student at Oregon State University.
 
 In my free time, I study ethology and contribute to citizen science projects.
 
+<br />
 <table>
-  <caption>
-    Citizen science contributions around the web.
-  </caption>
-  <thead>
+  <div align="center">
+    <caption>
+      Citizen science contributions around the web.
+    </caption>
+  </div>
+  <thead align="center">
     <tr>
       <td>
         <a href="https://www.inaturalist.org/people/obad-hai">
@@ -154,21 +157,129 @@ In my free time, I study ethology and contribute to citizen science projects.
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
          alt="Git icon." width="40" />
-  </picture>&nbsp;
+  </picture>
 </div>
 
 <!---------------------------------------------------------------------
  - Course Projects
 ----------------------------------------------------------------------->
-<!-- under construction
-
+<br />
 <table>
-  <tr>
-    <th></th>
-  </tr>
+  <div align="center">
+    <caption>
+      Course projects.
+    </caption>
+  </div>
+  <thead align="center">
+    <tr>
+      <th>
+        Title
+      </th>
+      <th>
+        Technologies
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/4N0NYM0U5MY7H/CS361_Course_Project">
+          booklet
+        </a>
+      </td>
+      <td>
+        <a href="https://www.python.org/">
+          <img src="https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square"
+               alt="Python v3.10." />
+        </a>
+        <a href="https://github.com/jay2002shah/">
+          <img src="https://img.shields.io/badge/@jay2002shah-D73F09?label=CS%20361%20Microservice&labelColor=141414&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQCAYAAADNo/U5AAACCUlEQVQoU21SS4ipURz/fRJqJt2JTEnNLO7spChLZTVKKakpxcpjVrMf5MZCjc0oK5NYTLOxU+rWKEsLJZtZuCFsKVKDvJ17zrmXO7invs7j+z9+j7+AozWbzXrRaPSS7kgmk21BEL4fxwhfH97f34nFYoFOp8PHxweur69Rr9eh1+vRbDb3sfvD4+Mjicfjx0Xh9XqRzWZBOx4m3d7ekmKxCIVCgeFwyBONRiOq1Sr6/T6WyyXC4TBMJhP8fr8gEEJ+0hgrC3x6ekIoFML9/T3S6fRJV4PBgFqt9kOQSqVEpVKBkofH42EwUCgUsF6v4XA4eCI7i8Vifr66uoJAq5NgMIjtdovVagWJRMITKQK+s/X8/IxIJILJZAK73Q7h9fWV+Hw+DAYDyOVyNBoNWK1WtNtttFot3Nzc7GEyTkxZgbYl4/EYMpkMuVwOTqeTdxWJRCec2AODKfR6vZFarf729vYGl8uFRCLBlZpOp7i4uMDDwwNisRjy+TznOJ/Pf3HQFD/Z4We+vLy88Iqfn58IBAJIpVK861+ef5hSb4hSqeSP7DObzahUKnC73chkMlwQpnCn08H5+fk/l6lqhJnY7XbBhCmVSri7u+NWaLXanfG8ycHsUfIc5maz2UtOfeTQFovF6eztpKJzxodWo9FgNBqhXC7DZrMdFD+4fNX47OyMUAX/+/83AuTd2zt8GaUAAAAASUVORK5CYII="
+               alt="CS361 Microservice by Jay Shah." />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+       <a href="https://github.com/4N0NYM0U5MY7H/CS361_Microservice">
+         rate X
+       </a>
+      </td>
+      <td>
+        <a href="https://www.python.org/">
+          <img src="https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square"
+               alt="Python v3.10." />
+        </a>
+        <a href="https://www.exchangerate-api.com/docs/free">
+          <img src="https://img.shields.io/badge/v6-ED1C24?label=ExchangeRate-API&labelColor=141414&style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB4UlEQVQ4T52TPUwUURDHZ95twFMUbi9Wd3hvuXcelV5iYaQihKClFbG1MMHYWREbEwooSCgkNiSE1k4S7dSIhcSQgFpzcLuwEIr74I6QeNl3b5glR0LA04NJXvJmM/P7z8ybRWCrJfrjDQzmCDAW+m3YTszSz9B1/2AxeTuBYPw2ks6F2H53B5Z6M5+AaPhvAATYJ4CelnCBb7CUzPwCoLvnghBWyJhXiOJzK4Ahk20FMDVLX3O4x1JS/WRA7iwEEdfs7fV7TQCkLcQhTeYbB0aFEBP3r8As1YOnPwLxDgRunQWwQPSh1vFwBit2OjGAS0uastnr5cPGju3ne1RKVlglqoFurOrIewB8dAoyEffzr9NSLiIPCTOyb4zITDYQnILrVpXjvABDs2ECAr5d77r6slytH7Jr8TlggZi6JedRoI18GSeEqSa9Um9o1RmxdtnvPFFkcHQ1sJ4zbQYEjOao/r1DRHyu8COmU85vfoU7/9oDrqKY9wo3y0nlsrrknK+cM8iAD20BQjiRGN7c2vySkTJnCMKXgQsBOH5vw3MTKpWq8sp3XQYQ5izyeXzSbrMCucwfHlzmX+BVX0Al5SAR8FAubpWDWjdDAFSvGiGhp/l63Nv/jEsvBmSeeJ5XOAKMD7eyNrT8SAAAAABJRU5ErkJggg=="
+               alt="ExchangeRate-API v6" />
+        </a>
+      </td>
+    </tr>
+    <!--<tr>
+      <td>
+        <a href="https://github.com/4N0NYM0U5MY7H/CS290_MERN_App">
+          Exercise Tracker
+        </a>
+      </td>
+      <td>
+        <a href="https://www.mongodb.com/atlas">
+          <img src="https://img.shields.io/badge/Atlas-47A248?label=MongoDB&labelColor=141414&logo=mongodb&style=flat-square"
+               alt="MongoBD Atlas." />
+        </a>
+        <a href="https://www.npmjs.com/package/express">
+          <img src="https://img.shields.io/badge/v4.18.2-000?label=Express&labelColor=141414&logo=express&style=flat-square"
+               alt="Express v4.18.2." />
+        </a>
+        <a href="https://www.npmjs.com/package/react">
+          <img src="https://img.shields.io/badge/v18.2-61DAFB?label=React&labelColor=141414&logo=react&style=flat-square"
+               alt="React v18.2." />
+        </a>
+        <a href="https://nodejs.org/en/">
+          <img src="https://img.shields.io/badge/v18.13-339933?label=Node.js&labelColor=141414&logo=nodedotjs&style=flat-square"
+               alt="Node.js v18.13." />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+          <img src="https://img.shields.io/badge/HTML-141414?logo=html5&style=flat-square"
+               alt="HTML badge." />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+          <img src="https://img.shields.io/badge/CSS-141414?logo=css3&logoColor=1572b6&style=flat-square"
+               alt="CSS badge." />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://img.shields.io/badge/JavaScript-141414?logo=javascript&style=flat-square"
+               alt="JavaScript badge." />
+        </a>
+        <a href="https://www.npmjs.com/package/jest">
+          <img src="https://img.shields.io/badge/Jest-141414?logo=jest&logoColor=C21325&style=flat-square"
+               alt="Jest badge."/>
+        </a>
+      </td>
+    </tr>-->
+    <!--<tr>
+      <td>
+        <a href="https://github.com/4N0NYM0U5MY7H/CS162_Mancala">
+          Mancala
+        </a>
+      </td>
+      <td>
+        <a href="https://www.python.org/">
+          <img src="https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square"
+               alt="Python v3.10." />
+        </a>
+        <a href="https://www.jetbrains.com/pycharm/">
+          <img src="https://img.shields.io/badge/Community_Edition-000?label=PyCharm&labelColor=141414&logo=pycharm&style=flat-square"
+               alt="PyCharm badge."/>
+        </a>
+        <a href="https://pypi.org/project/pytest/">
+          <img src="https://img.shields.io/badge/Pytest-141414?logo=pytest&style=flat-square"
+               alt="Pytest badge." />
+        </a>
+      </td>
+    </tr>-->
+  </tbody>
 </table>
 
--->
 
 <!---------------------------------------------------------------------
  - GitHub Statisics
@@ -180,35 +291,37 @@ In my free time, I study ethology and contribute to citizen science projects.
       My Stats
     </h3>
   </summary>
-  <picture>
-    <source
-            srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github_dark"
-            media="(prefers-color-scheme: dark)" />
-    <source
-            srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github"
-         alt="GitHub user contribution statistics." />
-  </picture>
-  <br />
-  <picture>
-    <source
-            srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github_dark"
-            media="(prefers-color-scheme: dark)" />
-    <source
-            srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github"
-         alt="GitHub top languages by repo statistics." />
-  </picture>
-  <picture>
-    <source
-            srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github_dark"
-            media="(prefers-color-scheme: dark)" />
-    <source
-            srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github"
-         alt="GitHub top languages by commit statistics." />
-  </picture>
+  <div align="center">
+    <picture>
+      <source
+              srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github_dark"
+              media="(prefers-color-scheme: dark)" />
+      <source
+              srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4N0NYM0U5MY7H&theme=github"
+           alt="GitHub user contribution statistics." />
+    </picture>
+    <br />
+    <picture>
+      <source
+              srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github_dark"
+              media="(prefers-color-scheme: dark)" />
+      <source
+              srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=4N0NYM0U5MY7H&theme=github"
+           alt="GitHub top languages by repo statistics." />
+    </picture>
+    <picture>
+      <source
+              srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github_dark"
+              media="(prefers-color-scheme: dark)" />
+      <source
+              srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=4N0NYM0U5MY7H&theme=github"
+           alt="GitHub top languages by commit statistics." />
+    </picture>
+  </div>
 </details>
