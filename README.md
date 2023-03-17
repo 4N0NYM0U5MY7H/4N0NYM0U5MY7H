@@ -37,25 +37,25 @@ In my free time, I study ethology and contribute to citizen science projects.
   <thead>
     <tr>
       <td>
-        <a src="https://www.inaturalist.org/people/obad-hai">
+        <a href="https://www.inaturalist.org/people/obad-hai">
           <img src="https://img.shields.io/badge/iNaturalist-74AC00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4T2NkoBAw4tL/HwgYgYCQ+XgNAGn+++/XVxZmdh5cBjG++nTTVpRX7RBMwe+/36axsXBng/ggV4DoL79ebuRllwjAZgjcBTDFyIpAXoCJ4/IOiheINQRZHV4XwFzz/sdjO0EO2UM/fr+fwcEqmAETB7kKxQW//37/wcLEwY7Nr9//fpzGycyfhe5FjFj49efbd1ZmTg5C0ffk4+k0WQGz2RgGYAsHrKEPdT3WdECMITDvE0xpyOkBOfDgbEJ+xRW1RBmArvnn3y/TOFh4wakUpwHf/79Q5GAQv4es6Mevd6c42YXN8SZlQl7BJQ8ASa9sDUq4ciMAAAAASUVORK5CYII="
                alt="iNaturalist badge." />
         </a>
       </td>
       <td>
-        <a src="https://bugguide.net/user/view/149082">
+        <a href="https://bugguide.net/user/view/149082">
           <img src="https://img.shields.io/badge/BugGuide-red?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgElEQVQ4T61TQQ7AIAibj/Fd+9rexWcmkECYaWQJcDGRUkqVcR3i5RgcJ4wnBWxAK4oEKC94yG6F+4mUfAhiFwgG4ygBET1zzvs0q8rl2H1Rgqxz9Maw5pMyZp0Rgd9VCERFSUGZwP/B3zGiYjex5RnN0UwJ2ou+r9y6THGkbJ0Xl3KACTitBiEAAAAASUVORK5CYII="
                alt="BugGuide badge." />
         </a>
       </td>
       <td>
-        <a src="https://www.youtube.com/@obad-hai/">
+        <a href="https://www.youtube.com/@obad-hai/">
           <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square"
                alt="YouTube badge." />
         </a>
       </td>
       <td>
-        <a src="https://www.instagram.com/parasiticfrisk/">
+        <a href="https://www.instagram.com/parasiticfrisk/">
           <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"
                alt="Instagram badge." />
         </a>
