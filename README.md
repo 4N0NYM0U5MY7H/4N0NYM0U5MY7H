@@ -256,7 +256,7 @@ In my free time, I study ethology and contribute to citizen science projects.
         </a>
       </td>
     </tr>-->
-    <!--<tr>
+    <tr>
       <td>
         <a href="https://github.com/4N0NYM0U5MY7H/CS162_Mancala">
           Mancala
@@ -267,16 +267,8 @@ In my free time, I study ethology and contribute to citizen science projects.
           <img src="https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square"
                alt="Python v3.10." />
         </a>
-        <a href="https://www.jetbrains.com/pycharm/">
-          <img src="https://img.shields.io/badge/Community_Edition-000?label=PyCharm&labelColor=141414&logo=pycharm&style=flat-square"
-               alt="PyCharm badge."/>
-        </a>
-        <a href="https://pypi.org/project/pytest/">
-          <img src="https://img.shields.io/badge/Pytest-141414?logo=pytest&style=flat-square"
-               alt="Pytest badge." />
-        </a>
       </td>
-    </tr>-->
+    </tr>
   </tbody>
 </table>
 
