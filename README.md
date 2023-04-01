@@ -215,7 +215,7 @@ In my free time, I study ethology and contribute to citizen science projects.
         </a>
       </td>
     </tr>
-    <!--<tr>
+    <tr>
       <td>
         <a href="https://github.com/4N0NYM0U5MY7H/CS290_MERN_App">
           Exercise Tracker
@@ -238,24 +238,8 @@ In my free time, I study ethology and contribute to citizen science projects.
           <img src="https://img.shields.io/badge/v18.13-339933?label=Node.js&labelColor=141414&logo=nodedotjs&style=flat-square"
                alt="Node.js v18.13." />
         </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-          <img src="https://img.shields.io/badge/HTML-141414?logo=html5&style=flat-square"
-               alt="HTML badge." />
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-          <img src="https://img.shields.io/badge/CSS-141414?logo=css3&logoColor=1572b6&style=flat-square"
-               alt="CSS badge." />
-        </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-          <img src="https://img.shields.io/badge/JavaScript-141414?logo=javascript&style=flat-square"
-               alt="JavaScript badge." />
-        </a>
-        <a href="https://www.npmjs.com/package/jest">
-          <img src="https://img.shields.io/badge/Jest-141414?logo=jest&logoColor=C21325&style=flat-square"
-               alt="Jest badge."/>
-        </a>
       </td>
-    </tr>-->
+    </tr>
     <tr>
       <td>
         <a href="https://github.com/4N0NYM0U5MY7H/CS162_Mancala">
