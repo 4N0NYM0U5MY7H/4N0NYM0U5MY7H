@@ -191,7 +191,7 @@ In my free time, I study ethology and contribute to citizen science projects.
 </thead>
 <tbody>
   <tr>
-    <td>Intro to Web Development (CS 290)</td>
+    <td>Intro to Web Development <br />(CS 290)</td>
     <td><a href="https://github.com/4N0NYM0U5MY7H/CS290_MERN_App">Exercise Tracker</a></td>
     <td>
       <a href="https://www.mongodb.com/atlas" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Atlas-47A248?label=MongoDB&labelColor=141414&logo=mongodb&style=flat-square" alt="MongoBD Atlas." /></a>
@@ -201,7 +201,7 @@ In my free time, I study ethology and contribute to citizen science projects.
     </td>
   </tr>
   <tr>
-  <td>Software Engineering I (CS 361)</td>
+  <td>Software Engineering I <br />(CS 361)</td>
   <td><a href="https://github.com/4N0NYM0U5MY7H/CS361_Course_Project">booklet</a></td>
   <td>
     <a href="https://www.python.org/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square" alt="Python v3.10." /></a>
@@ -209,7 +209,7 @@ In my free time, I study ethology and contribute to citizen science projects.
   </td>
   </tr>
   <tr>
-    <td>Software Engineering I (CS 361)</td>
+    <td>Software Engineering I <br />(CS 361)</td>
     <td><a href="https://github.com/4N0NYM0U5MY7H/CS361_Microservice">rate X</a></td>
     <td>
       <a href="https://www.python.org/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square" alt="Python v3.10." /></a>
@@ -217,7 +217,7 @@ In my free time, I study ethology and contribute to citizen science projects.
     </td>
   </tr>
   <tr>
-    <td>Intro to Computer Science II (CS 162)</td>
+    <td>Intro to Computer Science II <br />(CS 162)</td>
     <td><a href="https://github.com/4N0NYM0U5MY7H/CS162_Mancala">Mancala</a></td>
     <td>
       <a href="https://www.python.org/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square" alt="Python v3.10." /></a>
