@@ -179,7 +179,7 @@ In my free time, I study ethology and contribute to citizen science projects.
 <table>
 <div align="center">
   <caption>
-    Course projects at Oregon.
+    Course projects at Oregon State University.
   </caption>
 </div>
 <thead align="center">
