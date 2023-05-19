@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src=".github/git-header.svg"
+  <img src=".github/images/git-header.svg"
        alt="Octocat on a nature trail." />
   <h2>
     August Frisk (@AN0NYM0U5MY7H)
@@ -68,7 +68,7 @@ In my free time, I study ethology and contribute to citizen science projects.
   <tbody>
     <tr>
       <td>
-        Biodiversity obersvations and identifications for Stanislaus and Merced Counties in California.
+        Biodiversity obersvations and identifications throughout California's Central Valley and Sierra Nevada mountain range.Curator for the <code>Spiders of California</code>, <code>Biodiversity at California State University, Stanislaus</code>, and <code>Biodiversity of Stanislaus County</code> projects.
         <br />
         <a href="https://www.gbif.org/occurrence/search?recorded_by=obad-hai&advanced=1" target="_blank" rel="nofollow">
           <img src="https://img.shields.io/badge/GBIF-4B9F43?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAfUlEQVQoU2NkoAAwUqCXgfqa////n8bIyDiLkKuw2gzU/B+oGSwHZM4EUiDDMNTi1QwyBGY72ZqxaQQZStDZ+PyNohnoysVAxTFYNAQBbV+PLo4zqoAGtQAVVyNrQHc+3niGhTQuA4hKJEBDXgMNEAEHElKUEaUZV6ANnGYA2qYxEAClHFYAAAAASUVORK5CYII="
@@ -76,13 +76,13 @@ In my free time, I study ethology and contribute to citizen science projects.
         </a>
       </td>
       <td>
-        Arachnid observations and identifications with a focus on genera and species from California and the Pacific Northwest.
+        Spider (*Araneae*) observations and identifications with a focus on genera and species from California, the Pacific coast states, and parts of Canada.
       </td>
       <td>
         Wildlife observations captured with my smartphone. All videos on this channel are licensed under the Creative Commons License.
       </td>
       <td>
-        Wildlife observations captured with my smartphone. A focus on urban wildlife found throughout Central California.
+        Wildlife observations captured with my smartphone. A focus on urban wildlife found throughout California's Central Valley.
       </td>
     </tr>
   </tbody>
@@ -109,7 +109,7 @@ In my free time, I study ethology and contribute to citizen science projects.
   </picture>&nbsp;
   <picture>
     <source
-            srcset="https://github.com/4N0NYM0U5MY7H/4N0NYM0U5MY7H/blob/main/.github/express-plain-wordmark.svg"
+            srcset="https://github.com/4N0NYM0U5MY7H/4N0NYM0U5MY7H/blob/main/.github/images/express-plain-wordmark.svg"
             media="(prefers-color-scheme: dark)" />
     <source
             srcset="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
@@ -178,6 +178,9 @@ In my free time, I study ethology and contribute to citizen science projects.
   <thead align="center">
     <tr>
       <th>
+        Course
+      </th>
+      <th>
         Title
       </th>
       <th>
@@ -186,7 +189,38 @@ In my free time, I study ethology and contribute to citizen science projects.
     </tr>
   </thead>
   <tbody>
+      <tr>
+        <td>
+          Intro to Web Development (CS 290)
+        </td>
+        <td>
+          <a href="https://github.com/4N0NYM0U5MY7H/CS290_MERN_App">
+            Exercise Tracker
+          </a>
+        </td>
+        <td>
+          <a href="https://www.mongodb.com/atlas" target="_blank" rel="nofollow">
+            <img src="https://img.shields.io/badge/Atlas-47A248?label=MongoDB&labelColor=141414&logo=mongodb&style=flat-square"
+                 alt="MongoBD Atlas." />
+          </a>
+          <a href="https://www.npmjs.com/package/express" target="_blank" rel="nofollow">
+            <img src="https://img.shields.io/badge/v4.18.2-000?label=Express&labelColor=141414&logo=express&style=flat-square"
+                 alt="Express v4.18.2." />
+          </a>
+          <a href="https://www.npmjs.com/package/react" target="_blank" rel="nofollow">
+            <img src="https://img.shields.io/badge/v18.2-61DAFB?label=React&labelColor=141414&logo=react&style=flat-square"
+                 alt="React v18.2." />
+          </a>
+          <a href="https://nodejs.org/en/" target="_blank" rel="nofollow">
+            <img src="https://img.shields.io/badge/v18.13-339933?label=Node.js&labelColor=141414&logo=nodedotjs&style=flat-square"
+                 alt="Node.js v18.13." />
+          </a>
+        </td>
+    </tr>
     <tr>
+      <td>
+        Software Engineering I (CS 361)
+      </td>
       <td>
         <a href="https://github.com/4N0NYM0U5MY7H/CS361_Course_Project">
           booklet
@@ -205,6 +239,9 @@ In my free time, I study ethology and contribute to citizen science projects.
     </tr>
     <tr>
       <td>
+        Software Engineering I (CS 361)
+      </td>
+      <td>
        <a href="https://github.com/4N0NYM0U5MY7H/CS361_Microservice">
          rate X
        </a>
@@ -222,30 +259,8 @@ In my free time, I study ethology and contribute to citizen science projects.
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/4N0NYM0U5MY7H/CS290_MERN_App">
-          Exercise Tracker
-        </a>
+        Intro to Computer Science II (CS 162)
       </td>
-      <td>
-        <a href="https://www.mongodb.com/atlas" target="_blank" rel="nofollow">
-          <img src="https://img.shields.io/badge/Atlas-47A248?label=MongoDB&labelColor=141414&logo=mongodb&style=flat-square"
-               alt="MongoBD Atlas." />
-        </a>
-        <a href="https://www.npmjs.com/package/express" target="_blank" rel="nofollow">
-          <img src="https://img.shields.io/badge/v4.18.2-000?label=Express&labelColor=141414&logo=express&style=flat-square"
-               alt="Express v4.18.2." />
-        </a>
-        <a href="https://www.npmjs.com/package/react" target="_blank" rel="nofollow">
-          <img src="https://img.shields.io/badge/v18.2-61DAFB?label=React&labelColor=141414&logo=react&style=flat-square"
-               alt="React v18.2." />
-        </a>
-        <a href="https://nodejs.org/en/" target="_blank" rel="nofollow">
-          <img src="https://img.shields.io/badge/v18.13-339933?label=Node.js&labelColor=141414&logo=nodedotjs&style=flat-square"
-               alt="Node.js v18.13." />
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://github.com/4N0NYM0U5MY7H/CS162_Mancala">
           Mancala
