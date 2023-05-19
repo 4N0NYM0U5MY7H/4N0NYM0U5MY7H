@@ -1,27 +1,22 @@
 <div id="header" align="center">
-<img src=".github/images/git-header.svg"
-     alt="Octocat on a nature trail." />
-<h2>
-  August Frisk (@AN0NYM0U5MY7H)
-</h2>
-<div id="badges">
-  <a href="https://github.com/parasiticfrisk" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"
-       alt="GitHub badge." />
-  </a>
-  <a href="https://www.linkedin.com/in/august-frisk/" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
-       alt="LinkedIn badge." />
-  </a>
-  <a href="https://replit.com/@4N0NYM0U5MY7H" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/Replit-F26206?logo=replit&logoColor=white&style=for-the-badge"
-       alt="Replit badge." />
-  </a>
-  <a href="https://learn.unity.com/u/604ba327edbc2a0021432996?tab=profile" target="_blank" rel="nofollow">
-  <img src="https://img.shields.io/badge/Unity_Learn-black?logo=unity&logoColor=white&style=for-the-badge"
-       alt="Unity Learn badge." />
-  </a>
-</div>
+  <img src=".github/images/git-header.svg" alt="Octocat on a nature trail." />
+
+  <h2>August Frisk (@AN0NYM0U5MY7H)</h2>
+
+  <div id="badges">
+    <a href="https://github.com/parasiticfrisk" target="_blank" rel="nofollow">
+      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge." />
+    </a>
+    <a href="https://www.linkedin.com/in/august-frisk/" target="_blank" rel="nofollow">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge." />
+    </a>
+    <a href="https://replit.com/@4N0NYM0U5MY7H" target="_blank" rel="nofollow">
+      <img src="https://img.shields.io/badge/Replit-F26206?logo=replit&logoColor=white&style=for-the-badge" alt="Replit badge." />
+    </a>
+    <a href="https://learn.unity.com/u/604ba327edbc2a0021432996?tab=profile" target="_blank" rel="nofollow">
+      <img src="https://img.shields.io/badge/Unity_Learn-black?logo=unity&logoColor=white&style=for-the-badge" alt="Unity Learn badge." />
+    </a>
+  </div>
 </div>
 
 ---
@@ -36,35 +31,27 @@ In my free time, I study ethology and contribute to citizen science projects.
 - Citizen Science Projects
 ----------------------------------------------------------------------->
 <table>
-<div align="center">
-  <caption>
-    Citizen science contributions around the web.
-  </caption>
-</div>
+<caption align="center">Citizen science contributions around the web.</caption>
 <thead align="center">
   <tr>
   <td>
     <a href="https://www.inaturalist.org/people/obad-hai" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/iNaturalist-74AC00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4T2NkoBAw4tL/HwgYgYCQ+XgNAGn+++/XVxZmdh5cBjG++nTTVpRX7RBMwe+/36axsXBng/ggV4DoL79ebuRllwjAZgjcBTDFyIpAXoCJ4/IOiheINQRZHV4XwFzz/sdjO0EO2UM/fr+fwcEqmAETB7kKxQW//37/wcLEwY7Nr9//fpzGycyfhe5FjFj49efbd1ZmTg5C0ffk4+k0WQGz2RgGYAsHrKEPdT3WdECMITDvE0xpyOkBOfDgbEJ+xRW1RBmArvnn3y/TOFh4wakUpwHf/79Q5GAQv4es6Mevd6c42YXN8SZlQl7BJQ8ASa9sDUq4ciMAAAAASUVORK5CYII="
-         alt="iNaturalist badge." />
+      <img src="https://img.shields.io/badge/iNaturalist-74AC00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4T2NkoBAw4tL/HwgYgYCQ+XgNAGn+++/XVxZmdh5cBjG++nTTVpRX7RBMwe+/36axsXBng/ggV4DoL79ebuRllwjAZgjcBTDFyIpAXoCJ4/IOiheINQRZHV4XwFzz/sdjO0EO2UM/fr+fwcEqmAETB7kKxQW//37/wcLEwY7Nr9//fpzGycyfhe5FjFj49efbd1ZmTg5C0ffk4+k0WQGz2RgGYAsHrKEPdT3WdECMITDvE0xpyOkBOfDgbEJ+xRW1RBmArvnn3y/TOFh4wakUpwHf/79Q5GAQv4es6Mevd6c42YXN8SZlQl7BJQ8ASa9sDUq4ciMAAAAASUVORK5CYII=" alt="iNaturalist badge." />
     </a>
   </td>
   <td>
     <a href="https://bugguide.net/user/view/149082" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/BugGuide-red?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgElEQVQ4T61TQQ7AIAibj/Fd+9rexWcmkECYaWQJcDGRUkqVcR3i5RgcJ4wnBWxAK4oEKC94yG6F+4mUfAhiFwgG4ygBET1zzvs0q8rl2H1Rgqxz9Maw5pMyZp0Rgd9VCERFSUGZwP/B3zGiYjex5RnN0UwJ2ou+r9y6THGkbJ0Xl3KACTitBiEAAAAASUVORK5CYII="
-         alt="BugGuide badge." />
+      <img src="https://img.shields.io/badge/BugGuide-red?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgElEQVQ4T61TQQ7AIAibj/Fd+9rexWcmkECYaWQJcDGRUkqVcR3i5RgcJ4wnBWxAK4oEKC94yG6F+4mUfAhiFwgG4ygBET1zzvs0q8rl2H1Rgqxz9Maw5pMyZp0Rgd9VCERFSUGZwP/B3zGiYjex5RnN0UwJ2ou+r9y6THGkbJ0Xl3KACTitBiEAAAAASUVORK5CYII=" alt="BugGuide badge." />
     </a>
   </td>
   <td>
     <a href="https://www.youtube.com/@obad-hai/" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square"
-         alt="YouTube badge." />
+      <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square" alt="YouTube badge." />
     </a>
   </td>
   <td>
     <a href="https://www.instagram.com/parasiticfrisk/" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square"
-         alt="Instagram badge." />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram badge." />
     </a>
   </td>
   </tr>
@@ -72,15 +59,29 @@ In my free time, I study ethology and contribute to citizen science projects.
 <tbody>
   <tr>
   <td>
-    Biodiversity obersvations and identifications throughout California's Central Valley and Sierra Nevada mountain range.Curator for the <code>Spiders of California</code>, <code>Biodiversity at California State University, Stanislaus</code>, and <code>Biodiversity of Stanislaus County</code> projects.
+    Biodiversity obersvations and identifications throughout California's Central Valley and Sierra Nevada mountain range. Project curator for
     <br />
-    <a href="https://www.gbif.org/occurrence/search?recorded_by=obad-hai&advanced=1" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/GBIF-4B9F43?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAfUlEQVQoU2NkoAAwUqCXgfqa////n8bIyDiLkKuw2gzU/B+oGSwHZM4EUiDDMNTi1QwyBGY72ZqxaQQZStDZ+PyNohnoysVAxTFYNAQBbV+PLo4zqoAGtQAVVyNrQHc+3niGhTQuA4hKJEBDXgMNEAEHElKUEaUZV6ANnGYA2qYxEAClHFYAAAAASUVORK5CYII="
-    alt="Global Biodiversity Information Facility badge." />
+    <a href="https://www.inaturalist.org/projects/biodiversity-at-california-state-university-stanislaus" target="_blank" rel="nofollow">
+      <img src="https://img.shields.io/badge/CSU_Stanislaus-830A1A?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAoCAYAAAAPOoFWAAACUElEQVRYR61Xu0pEMRB1VfCFNsuihcWClSDYWQra+wkiVv6CheIDxG/Qags/QbC0tlNsrESxW9TCB4L4OrkmITebyczc3cByuZOZczLPm631KdcvVg1LaVaoq40MWUikIa5EFhKE5ByxiswBU6AcMUvGAVC5S9klyaoScMSerNcEMXFRxVweUqeFzRnkU/hdIn/rkjbwZFwVGbC45CmCXPEUnuXIsL0L4J2iKRPNjP1rbM058kpkABmB4Yc0zJxeNozWeAwnfpeE2YW6qmdmLNXxe1KQ3UG3SRTVfzXGYBCNw+DFyLnwSCrRe00ViJPj+QXlAQs6CP5vKUGoJ8mZr8Bupr3IM3uyN3hjwlqsRL9tYP84562LUrbPuBEm9TYk68epzOlHiSqahvwh2PuE7lCcj1xTezKuPyhQK6+D+Nli/OBpBnsDsseO4nAlz42s2GPTLZAZcLcmgdVOtQlke1Bawv5i8YnRkhHergLwJMYK3z0ZACag/JqrKmov9Igl65V3buIE6TkC9hrehw1H6UudGFuiO2Lk2RVw5lMOxNeCWSjeuHBJ5iJ0GtBvW5sZ2N+G9qEDpQtPKt5RnlowLq4B0L3AY8HtS6KiJUvVSBNE94n26EhBx1Wumzagwue9l5xI0w42zyvw9jS2Iy+p0q9z1ODbeN+nbCmyTRgdagm5FJB3fRuOZRCeS8LIEZWaOgUoAdBMH9G/GCqcOEzLjiMWh/UsV8qS6SKqRiqkkG/BywNN6EIskfupWSnNZ2Uy65G/k2hbQ+VZ1MCiz09o8wfHYOcMtIL6eAAAAABJRU5ErkJggg==" alt="Biodiversity at California State University, Stanislaus badge." />
+    </a>
+    <a href="https://www.inaturalist.org/projects/biodiversity-of-stanislaus-county-california" target="_blank" rel="nofollow">
+      <img src="https://img.shields.io/badge/Stanislaus_County-29867b?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACNSURBVDhPjZJZEoAgDENB738RLqkEGyZ0Cvb9lC4Ji9bieDq2DKkdnbkspvBi5GkDLybLFaIBADEi+8zBr4EOEzU6Gmjf9wD62zfIiBGnAYfQAJFIaa3dtvwSFWBNrBTWFrQxpgQrD3w+7sEijq75Ds6B5RG9UYbUVziR/pWJN770vtldlXkCL1bjPaW8PWR/8rEo+HQAAAAASUVORK5CYII=" alt="Biodiversity in Stanislaus County, California badge." />
+    </a>
+    <a href="https://www.inaturalist.org/projects/spiders-of-california" target="_blank" rel="nofollow">
+      <img src="https://img.shields.io/badge/California_Spiders-854f4f?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAACC0lEQVRYR+1Xu00DQRDFZHwKcAeIjAwi0wERCUJUQAU0QAk0ACIhpAKIICJFNIAowM4QvD3dnJbRzLzZ48g4ydqzd/bN2zdvP56tOc8Xnhker3/s7xGumawMkGRTEmK47szZwFZlMnhhGQRgCnUyWB2ZqI4ZEKYSw5D8AxnPIxl5IzLV+DcovFPHamwhc4eg4wShewAeMSWkP5pI3Yf4c+Be/fCMClirvcKktghaY6IcbGk/g9CB+Kq0LWbWZPB9BYgND4cubUluAJubopgR7Q2SntaJmbqUDMB2QehVq9MDP6LvsPLIA94XZQIG+QX6Sr+rbtM+Uyeoan8N/DN8pO2SWUqyMo8ik11NkhzE9vD+8isylnH1aoiIeX7zxtBTuSU5U4ytREqmVocly6gUxrQmaFGKKaFzpwzcSnisQt4OvATg5pQkFNYKqm1RZaKzo9U/ukwMe1CGBbYSkVlbvvFy0ftMT2Id7efYsnlG9u4z3QWcDeq3+XL4lUMwfPrYOYLes9jDGeINsC5ImeWtd98UPjvWMxckS6KWi9mQI9LaI9qiTO+5S7QXUbm6Po8MEt6i78QCaCWjVuIcqn2YagZkUqZmJar7mSXoTY+tsD8nw2YgBKxyRYcj4p8wdh+fJeK29UTCfwfZU1cu4Wzvqb1jYU9CJkNCq/lPRqsW+dEtU9YvLSWqS2XhfwMVdbMrFev/2gAAAABJRU5ErkJggg==" alt="Biodiversity in Stanislaus County, California badge." />
+    </a>
+    <br />
+    Datasets
+    <br />
+    <a href="https://www.gbif.org/occurrence/search?recorded_by=August%20Frisk&advanced=1" target="_blank" rel="nofollow">
+      <img src="https://img.shields.io/badge/GBIF-4B9F43?style=flat-square&&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAfUlEQVQoU2NkoAAwUqCXgfqa////n8bIyDiLkKuw2gzU/B+oGSwHZM4EUiDDMNTi1QwyBGY72ZqxaQQZStDZ+PyNohnoysVAxTFYNAQBbV+PLo4zqoAGtQAVVyNrQHc+3niGhTQuA4hKJEBDXgMNEAEHElKUEaUZV6ANnGYA2qYxEAClHFYAAAAASUVORK5CYII=" alt="Global Biodiversity Information Facility badge." />
+    </a>
+    <a href="https://www.globalbioticinteractions.org/" target="_blank" rel="nofollow">
+      <img src="https://img.shields.io/badge/GloBI-1867a5?style=flat-square&logo=data:image/png;base64,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" alt="Global Biotic Interactions badge." />
     </a>
   </td>
   <td>
-    Spider (*Araneae*) observations and identifications with a focus on genera and species from California, the Pacific coast states, and parts of Canada.
+    Spider observations and identifications with a focus on genera and species from California, the Pacific coast states, and parts of Canada.
   </td>
   <td>
     Wildlife observations captured with my smartphone. All videos on this channel are licensed under the Creative Commons License.
@@ -96,75 +97,64 @@ In my free time, I study ethology and contribute to citizen science projects.
 ### Languages and Tools
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"
-       alt="Python icon." width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"
-       alt="Pytest icon." width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python icon." width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Pytest icon." width="40" />&nbsp;
   <picture>
-  <source 
-       srcset="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"
-       media="(prefers-color-scheme: dark)" />
-  <source
-       srcset="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
-       alt="Mongo DB icon." width="40" />
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"
+         media="(prefers-color-scheme: dark)" />
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB icon." width="40" />
   </picture>&nbsp;
   <picture>
-  <source
-       srcset="https://github.com/4N0NYM0U5MY7H/4N0NYM0U5MY7H/blob/main/.github/images/express-plain-wordmark.svg"
-       media="(prefers-color-scheme: dark)" />
-  <source
-       srcset="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
-       alt="Express JS icon." width="40" />
+    <source
+         srcset="https://github.com/4N0NYM0U5MY7H/4N0NYM0U5MY7H/blob/main/.github/images/express-plain-wordmark.svg"
+         media="(prefers-color-scheme: dark)" />
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express JS icon." width="40" />
   </picture>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-       alt="React icon." width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React icon." width="40" />&nbsp;
   <picture>
-  <source
-       srcset="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
-       media="(prefers-color-scheme: dark)" />
-  <source
-       srcset="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-       alt="Node JS icon." width="40" />
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg"
+         media="(prefers-color-scheme: dark)" />
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node JS icon." width="40" />
   </picture>&nbsp;
   <picture>
-  <source
-       srcset="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"
-       media="(prefers-color-scheme: dark)" />
-  <source
-       srcset="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
-       alt="HTML 5 icon." width="40" />&nbsp;
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"
+         media="(prefers-color-scheme: dark)" />
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML 5 icon." width="40" />&nbsp;
   </picture>&nbsp;
   <picture>
-  <source
-       srcset="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
-       media="(prefers-color-scheme: dark)" />
-  <source
-       srcset="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
-       alt="CSS 3 icon." width="40" />
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
+         media="(prefers-color-scheme: dark)" />
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS 3 icon." width="40" />
   </picture>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-       alt="JavaScript icon." width="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
-       alt="Jest icon." width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript icon." width="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest icon." width="40" />&nbsp;
   <picture>
-  <source
-       srcset="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"
-       media="(prefers-color-scheme: dark)" />
-  <source
-       srcset="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
-       alt="Git icon." width="40" />
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg"
+         media="(prefers-color-scheme: dark)" />
+    <source
+         srcset="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"
+         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git icon." width="40" />
   </picture>
 </div>
 
@@ -178,9 +168,7 @@ In my free time, I study ethology and contribute to citizen science projects.
 <!-- Start Oregon State University Projects -->
 <table>
 <div align="center">
-  <caption>
-    Course projects at Oregon State University.
-  </caption>
+  <caption>Course projects at Oregon State University.</caption>
 </div>
 <thead align="center">
   <tr>
