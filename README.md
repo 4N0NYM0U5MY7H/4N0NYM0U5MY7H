@@ -48,7 +48,7 @@ Observing and identifying biodiversity throughout California's Central Valley an
 <thead>
   <tr>
     <th>Course</th>
-    <th>Title</th>
+    <th>Project</th>
     <th>Technologies</th>
   </tr>
 </thead>
