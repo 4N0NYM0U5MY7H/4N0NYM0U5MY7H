@@ -7,7 +7,6 @@
 - Profile Badges
 ----------------------------------------------------------------------->
 
-[![GitHub badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/parasiticfrisk)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/august-frisk/)
 [![Replit badge](https://img.shields.io/badge/Replit-F26206?logo=replit&logoColor=white&style=for-the-badge)](https://replit.com/@4N0NYM0U5MY7H)
 [![Unity Learn badge](https://img.shields.io/badge/Unity_Learn-black?logo=unity&logoColor=white&style=for-the-badge)](https://learn.unity.com/u/604ba327edbc2a0021432996?tab=profile)
@@ -53,6 +52,14 @@ Observing and identifying biodiversity throughout California's Central Valley an
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>Intro to Databases <br />(CS 340)</td>
+    <td><a href="https://github.com/4N0NYM0U5MY7H/CS340_Project">Hero Electronics</a></td>
+    <td>
+      <a href="https://www.python.org/downloads/release/python-368/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Python-v3.6.8-3776AB?logo=python&labelColor=141414&style=flat-square" alt="Python v3.6.8" /></a>
+      <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/Flask-v2.0.1-000?logo=flask&labelColor=141414&style=flat-square" alt="Flask v2.0.1" /></a>
+      <a href="https://www.mysql.com/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/MySQL-v15.1-4479A1?logo=mysql&labelColor=141414&style=flat-square" alt="MySQL v15.1" /></a>
+  </tr>
   <tr>
     <td>Intro to Web Development <br />(CS 290)</td>
     <td><a href="https://github.com/4N0NYM0U5MY7H/CS290_MERN_App">Exercise Tracker</a></td>
