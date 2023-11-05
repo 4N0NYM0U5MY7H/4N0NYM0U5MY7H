@@ -11,32 +11,21 @@
 [![Replit badge](https://img.shields.io/badge/Replit-F26206?logo=replit&logoColor=white&style=for-the-badge)](https://replit.com/@4N0NYM0U5MY7H)
 [![Unity Learn badge](https://img.shields.io/badge/Unity_Learn-black?logo=unity&logoColor=white&style=for-the-badge)](https://learn.unity.com/u/604ba327edbc2a0021432996?tab=profile)
 
+[![iNaturalist badge](https://img.shields.io/badge/iNaturalist-74AC00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4T2NkoBAw4tL/HwgYgYCQ+XgNAGn+++/XVxZmdh5cBjG++nTTVpRX7RBMwe+/36axsXBng/ggV4DoL79ebuRllwjAZgjcBTDFyIpAXoCJ4/IOiheINQRZHV4XwFzz/sdjO0EO2UM/fr+fwcEqmAETB7kKxQW//37/wcLEwY7Nr9//fpzGycyfhe5FjFj49efbd1ZmTg5C0ffk4+k0WQGz2RgGYAsHrKEPdT3WdECMITDvE0xpyOkBOfDgbEJ+xRW1RBmArvnn3y/TOFh4wakUpwHf/79Q5GAQv4es6Mevd6c42YXN8SZlQl7BJQ8ASa9sDUq4ciMAAAAASUVORK5CYII=)](https://www.inaturalist.org/people/obad-hai)
+[![BugGuide badge](https://img.shields.io/badge/BugGuide-red?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgElEQVQ4T61TQQ7AIAibj/Fd+9rexWcmkECYaWQJcDGRUkqVcR3i5RgcJ4wnBWxAK4oEKC94yG6F+4mUfAhiFwgG4ygBET1zzvs0q8rl2H1Rgqxz9Maw5pMyZp0Rgd9VCERFSUGZwP/B3zGiYjex5RnN0UwJ2ou+r9y6THGkbJ0Xl3KACTitBiEAAAAASUVORK5CYII=)](https://bugguide.net/user/view/149082)
+[![Wikipedia badge](https://img.shields.io/badge/Wikipedia-006699?style=flat-square&logo=wikipedia)](https://en.wikipedia.org/wiki/Special:Contributions/Parasiticfrisk)
 </div>
 
 ---
 ### About Me
-I am a Computer Science student at Oregon State University. In my free time, I study ethology and contribute to citizen science projects.
-
-<br />
-<!---------------------------------------------------------------------
-- Citizen Science Projects
------------------------------------------------------------------------>
-
-### Citizen science contributions around the web.
-Observing and identifying biodiversity throughout California's Central Valley and Sierra Nevada mountain range.
-
-[![iNaturalist badge](https://img.shields.io/badge/iNaturalist-74AC00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA8klEQVQ4T2NkoBAw4tL/HwgYgYCQ+XgNAGn+++/XVxZmdh5cBjG++nTTVpRX7RBMwe+/36axsXBng/ggV4DoL79ebuRllwjAZgjcBTDFyIpAXoCJ4/IOiheINQRZHV4XwFzz/sdjO0EO2UM/fr+fwcEqmAETB7kKxQW//37/wcLEwY7Nr9//fpzGycyfhe5FjFj49efbd1ZmTg5C0ffk4+k0WQGz2RgGYAsHrKEPdT3WdECMITDvE0xpyOkBOfDgbEJ+xRW1RBmArvnn3y/TOFh4wakUpwHf/79Q5GAQv4es6Mevd6c42YXN8SZlQl7BJQ8ASa9sDUq4ciMAAAAASUVORK5CYII=)](https://www.inaturalist.org/people/obad-hai)
-[![Wikipedia badge](https://img.shields.io/badge/Wikipedia-006699?style=flat-square&logo=wikipedia)](https://en.wikipedia.org/wiki/Special:Contributions/Parasiticfrisk)
-[![BugGuide badge](https://img.shields.io/badge/BugGuide-red?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAgElEQVQ4T61TQQ7AIAibj/Fd+9rexWcmkECYaWQJcDGRUkqVcR3i5RgcJ4wnBWxAK4oEKC94yG6F+4mUfAhiFwgG4ygBET1zzvs0q8rl2H1Rgqxz9Maw5pMyZp0Rgd9VCERFSUGZwP/B3zGiYjex5RnN0UwJ2ou+r9y6THGkbJ0Xl3KACTitBiEAAAAASUVORK5CYII=)](https://bugguide.net/user/view/149082)
+I am a Computer Science student at Oregon State University. In my free time, I like to contribute to citizen science projects.
 
 <!---------------------------------------------------------------------
 - Course Projects
 ----------------------------------------------------------------------->
 <br />
 
-<table>
-<tbody>
-<!-- Start Oregon State University Projects -->
+### Computer Science course projects
 <table>
 <thead>
   <tr>
@@ -87,8 +76,35 @@ Observing and identifying biodiversity throughout California's Central Valley an
       <a href="https://www.python.org/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/v3.10-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square" alt="Python v3.10." /></a>
     </td>
   </tr>
+  <tr>
+    <td>Intro to UNIX/Linux Systems and Programming <br />(CSCI 210)</td>
+    <td><a href="https://github.com/4N0NYM0U5MY7H/CSCI210_ULIB">ULIB</a></td>
+    <td>
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/v4.4.20-4EAA25?label=GNU%20Bash&labelColor=141414&logo=gnu-bash&style=flat-square" alt="GNU Bash." /></a>
+    </td>
+</tr>
 </tbody>
 </table>
-<!-- End Oregon State University Projects -->
+
+<br />
+<!--
+### Course projects from Modesto Junior College
+<table>
+<thead>
+  <tr>
+    <th>Course</th>
+    <th>Project</th>
+    <th>Technologies</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td>Intro to Programming <br />(CSCI 270)</td>
+  <td><a href="https://github.com/4N0NYM0U5MY7H/CSCI270_Project">Personality Calulator</a></td>
+  <td>
+    <a href="https://www.python.org/" target="_blank" rel="nofollow"><img src="https://img.shields.io/badge/v3.6.8-3776AB?label=Python&labelColor=141414&logo=python&style=flat-square" alt="Python v3.6.8." /></a>
+  </td>
+</tr>
 </tbody>
 </table>
+-->
