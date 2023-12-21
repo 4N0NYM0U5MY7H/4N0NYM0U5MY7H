@@ -16,10 +16,6 @@
 [![Wikipedia badge](https://img.shields.io/badge/Wikipedia-006699?style=flat-square&logo=wikipedia)](https://en.wikipedia.org/wiki/Special:Contributions/Parasiticfrisk)
 </div>
 
----
-### About Me
-I am a Computer Science student at Oregon State University. In my free time, I like to contribute to citizen science projects.
-
 <!---------------------------------------------------------------------
 - Course Projects
 ----------------------------------------------------------------------->
