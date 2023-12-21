@@ -25,7 +25,7 @@ I am a Computer Science student at Oregon State University. In my free time, I l
 ----------------------------------------------------------------------->
 <br />
 
-### Computer Science course projects
+<!--### Computer Science course projects
 <table>
 <thead>
   <tr>
@@ -106,5 +106,5 @@ I am a Computer Science student at Oregon State University. In my free time, I l
   </td>
 </tr>
 </tbody>
-</table>
+</table>-->
 -->
