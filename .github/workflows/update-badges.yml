@@ -1,4 +1,4 @@
-## Workflow suggestion by @MathewBiddle to share credly badges using the badge-readme action by Pedro Matias.
+## Workflow suggestion by Mathew Biddle (@MathewBiddle) to share credly badges using the badge-readme action by Pedro Matias (@pemtajo).
 ## 
 ## See discussion here:
 ##     https://github.com/nasa/Transform-to-Open-Science/discussions/608#discussioncomment-9449954
@@ -11,8 +11,12 @@ jobs:
   update-readme:
     name: Update Readme with Credly badges
     runs-on: ubuntu-latest
+    
+    # Permissions fix suggested by Joshua Browne (@joshuabrownenz)
+    # https://github.com/pemtajo/badge-readme/issues/20#issue-1944635567
     permissions:
       contents: write
+    
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
