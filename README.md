@@ -8,6 +8,8 @@
 ----------------------------------------------------------------------->
 
 <!--START_SECTION:badges-->
+[![Unity Junior Programmer](https://images.credly.com/size/110x110/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/ff513f13-1edb-4a6a-ba6a-3ea65747c2ec "Unity Junior Programmer")
+[![Unity Essentials Pathway](https://images.credly.com/size/110x110/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/40f6d993-c1dd-4d12-aee2-7f0ad937a43e "Unity Essentials Pathway")
 <!--END_SECTION:badges-->
 
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/august-frisk/)
