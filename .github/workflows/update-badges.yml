@@ -14,8 +14,8 @@ jobs:
     
     # Permissions fix suggested by Joshua Browne (@joshuabrownenz)
     # https://github.com/pemtajo/badge-readme/issues/20#issue-1944635567
-    permissions:
-      contents: write
+    # permissions:
+    #  contents: write
     
     steps:
       - name: Badges - Readme
