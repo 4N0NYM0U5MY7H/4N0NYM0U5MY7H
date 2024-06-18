@@ -1,9 +1,7 @@
 <div align="center">
 
-<picture>
-<img src=".github/images/git-header.svg" alt="Octocat walking through a forest followed by squirrels" />
-<caption>Image credit: <a href="https://www.kimestoesta.com/">Kim Estoesta</a></caption>
-</picture>
+![Octocat walking through a forest followed by squirrels](.github/images/git-header.svg)
+Image credit: [Kim Estoesta](https://www.kimestoesta.com/)
 
 # August Frisk (@AN0NYM0U5MY7H)
 
@@ -14,7 +12,7 @@
 
 </div>
 
-I am an undergraduate researcher at California State University, Stanislaus studying Geography & Environmental Resources. I am also a citizen scientist with a passion for arachnology, entomology, and human interaction with the environment. I am currently intersted in research software engineering, data science, and geospatial analysis.
+I am an undergraduate researcher at California State University, Stanislaus studying Geography & Environmental Resources. I am also a citizen scientist with a passion for arachnology, entomology, and human interaction with the environment. I am currently interested in research software engineering, data science, and geospatial analysis.
 
 ## Find me around the web 🌐
 
@@ -112,10 +110,26 @@ Here are some of the languages, frameworks, and tools I have experience with:
 
 I have earned the following badges for my work in open science, software development, and game design:
 
+<div align="center">
+
 <!--START_SECTION:badges-->
 [![NASA Open Science](https://images.credly.com/size/54x54/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png)](http://www.credly.com/badges/b12d3a3a-f09e-441e-a669-c66c0c3a0fa3 "NASA Open Science")
 [![Unity Junior Programmer](https://images.credly.com/size/54x54/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/ff513f13-1edb-4a6a-ba6a-3ea65747c2ec "Unity Junior Programmer")
 [![Unity Essentials Pathway](https://images.credly.com/size/54x54/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/40f6d993-c1dd-4d12-aee2-7f0ad937a43e "Unity Essentials Pathway")
 <!--END_SECTION:badges-->
+<!-- Manually Added -->
+[![LambdaTest Test Automation Professional Certificate](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/a5a83c8bee2667d7d3c913a8efce74600c1ff3752945cdf5ae287005b7adca6e "LambdaTest Test Automation Professional Certificate")
+[![Improve Your Test Automation with Python Skills](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/b2caaf0f754636d812280e735cacd72e6de21748788d72b258aa42994d761f37 "Improve Your Test Automation with Python Skills")
+[![Getting Started in Test Automation Engineering](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/53f06120ee343fcc239f550415d81a7c7c689a7a26bbb1368992718762b518f7 "Getting Started in Test Automation Engineering")
+[![LambdaTest Software Testing Professional Certificate](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/6a8b123a775837764def563c65c183bc6e3185be2ff85cd75cb8184449bda955 "LambdaTest Software Testing Professional Certificate")
+[![Become a SQL Developer](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/edeefc3d7c6d2fb51689b794a613460b423637617484ed5e147657f8ce30baf6 "Become a SQL Developer")
+[![Master the Fundamentals of AI and Machine Learning](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/fdf2bbc2fc6aacc319471733408f744c72007e5b54ae360276ffdcf4bcb9585b "Master the Fundamentals of AI and Machine Learning")
+[![Advance Your Skills in Python](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/ede540c0aaf5a80d098cb0ff6a0b34ca6e548be2b6f4b3478cd57e7571851559 "Advance Your Skills in Python")
+[![Advance Your Skills in HTML](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/c483533f8ce003c6c7d3b92d4b926961301e72dff2e07ee07b01903130eb8f55 "Advance Your Skills in HTML")
+[![Build Your Analytical Skills with Statistical Analysis](.github/images/llp-old.png)](.https://www.linkedin.com/learning/certificates/d01fa02b9e16c78a03af9cb5afe705a9a298c0c6bad0a7919466a86a34e070d6 "Build Your Analytical Skills with Statistical Analysis")
+[![Master the OWASP Top 10](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/41127c7e2bcfd98b575fa8c9fd71dc085d8b2033902a908f82afa86863551fd1 "Master the OWASP Top 10")
+[![Become a Python Developer](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/937f0ceb5622ed69bf26b87635042f742e37ff028dc9925b74004f9c88d1beab "Become a Python Developer")
+[![Become a Programmer: Foundations](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/4ffa35f44fe0267a6ef9a4e37f4fa890975f0e0a6616ddd9feaba11a5a7c2c99 "Become a Programmer: Foundations")
 
+</div>
 </div>
