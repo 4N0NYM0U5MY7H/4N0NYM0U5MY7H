@@ -17,9 +17,9 @@
 
 ### Certifications
 <!--START_SECTION:badges-->
-[![NASA Open Science](https://images.credly.com/size/55x55/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png)](http://www.credly.com/badges/b12d3a3a-f09e-441e-a669-c66c0c3a0fa3 "NASA Open Science")
-[![Unity Junior Programmer](https://images.credly.com/size/55x55/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/ff513f13-1edb-4a6a-ba6a-3ea65747c2ec "Unity Junior Programmer")
-[![Unity Essentials Pathway](https://images.credly.com/size/55x55/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/40f6d993-c1dd-4d12-aee2-7f0ad937a43e "Unity Essentials Pathway")
+[![NASA Open Science](https://images.credly.com/size/54x54/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png)](http://www.credly.com/badges/b12d3a3a-f09e-441e-a669-c66c0c3a0fa3 "NASA Open Science")
+[![Unity Junior Programmer](https://images.credly.com/size/54x54/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/ff513f13-1edb-4a6a-ba6a-3ea65747c2ec "Unity Junior Programmer")
+[![Unity Essentials Pathway](https://images.credly.com/size/54x54/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/40f6d993-c1dd-4d12-aee2-7f0ad937a43e "Unity Essentials Pathway")
 <!--END_SECTION:badges-->
 
 </div>
