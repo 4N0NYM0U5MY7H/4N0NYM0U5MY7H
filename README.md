@@ -15,7 +15,8 @@ Image credit: [Kim Estoesta](https://www.kimestoesta.com/)
 
 I am an undergraduate researcher at California State University, Stanislaus studying Geography & Environmental Resources. I am also a citizen scientist with a passion for arachnology, entomology, and human interaction with the environment. I am currently interested in research software engineering, data science, and geospatial analysis.
 
-## Find me around the web 🌐
+<details open="open">
+<summary><h2>Find me around the web 🌐</h2></summary>
 
 To learn more about my work, check out my [ORCID iD](https://orcid.org/0009-0007-9200-8438). Connect with me on [LinkedIn](https://www.linkedin.com/in/august-frisk/). I contribute to the [iNaturalist](https://www.inaturalist.org/people/obad-hai) and [BugGuide](https://bugguide.net/user/view/149082) citizen science platforms. I am also a [Wikipedia](https://en.wikipedia.org/wiki/User:Parasiticfrisk) contributor. Feel free to reach out for collaborations, opportunities, or just to exchange ideas. Let's innovate together!
 
@@ -26,8 +27,10 @@ To learn more about my work, check out my [ORCID iD](https://orcid.org/0009-0007
 [![Unity Learn](https://img.shields.io/badge/ParasiticFrisk-black?logo=unity&style=social)](https://learn.unity.com/u/604ba327edbc2a0021432996)
 
 </div>
+</details>
 
-## Languages and Tools 💻🔧
+<details>
+  <summary><h2>Languages and Tools 💻🔧</h2></summary>
 
 Here are some of the languages, frameworks, and tools I have experience with:
 
@@ -106,8 +109,10 @@ Here are some of the languages, frameworks, and tools I have experience with:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat-square)
 
 </div>
+</details>
 
-## Accomplishments 🎓📜
+<details>
+<summary><h2>Accomplishments 🎓📜</h2></summary>
 
 I have earned the following badges for my work in open science, software development, and game design:
 
@@ -132,4 +137,4 @@ I have earned the following badges for my work in open science, software develop
 [![TestOut PC Pro Certification](.github/images/testout.png)](https://certification.testout.com/api/certification/ls5/C2MQ7 "TestOut PC Pro Certification")
 
 </div>
-</div>
+</details>
