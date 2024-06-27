@@ -114,7 +114,7 @@ Here are some of the languages, frameworks, and tools I have experience with:
 <details>
 <summary><h2>Accomplishments 🎓📜</h2></summary>
 
-I have earned the following badges for my work in open science, software development, and game design:
+Here are some of the certifications and badges I have earned:
 
 <div align="center">
 
@@ -122,6 +122,7 @@ I have earned the following badges for my work in open science, software develop
 [![NASA Open Science](https://images.credly.com/size/54x54/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png)](http://www.credly.com/badges/b12d3a3a-f09e-441e-a669-c66c0c3a0fa3 "NASA Open Science")
 [![Unity Junior Programmer](https://images.credly.com/size/54x54/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/ff513f13-1edb-4a6a-ba6a-3ea65747c2ec "Unity Junior Programmer")
 [![Unity Essentials Pathway](https://images.credly.com/size/54x54/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/40f6d993-c1dd-4d12-aee2-7f0ad937a43e "Unity Essentials Pathway")<!--END_SECTION:badges--><!-- Manually Added -->
+[![Getting Started with R for Data Science](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/12b1c767d4b7521fa1df48914a09d303dc707023da2f9c0b4143a5b4f989fdc9 "Getting Started with R for Data Science")
 [![LambdaTest Test Automation Professional Certificate](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/a5a83c8bee2667d7d3c913a8efce74600c1ff3752945cdf5ae287005b7adca6e "LambdaTest Test Automation Professional Certificate")
 [![Improve Your Test Automation with Python Skills](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/b2caaf0f754636d812280e735cacd72e6de21748788d72b258aa42994d761f37 "Improve Your Test Automation with Python Skills")
 [![Getting Started in Test Automation Engineering](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/53f06120ee343fcc239f550415d81a7c7c689a7a26bbb1368992718762b518f7 "Getting Started in Test Automation Engineering")
