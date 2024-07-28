@@ -6,19 +6,19 @@ Image credit: [Kim Estoesta](https://www.kimestoesta.com/)
 
 # August Frisk (@AN0NYM0U5MY7H)
 
-[![ORCID iD](https://img.shields.io/badge/0009--0007--9200--8438-A6CE39?logo=orcid&logoColor=A6CE39&style=social)](https://orcid.org/0009-0007-9200-8438)
+[![ORCID](https://img.shields.io/badge/0009--0007--9200--8438-A6CE39?logo=orcid&logoColor=A6CE39&style=social)](https://orcid.org/0009-0007-9200-8438)
 [![LinkedIn](https://img.shields.io/badge/August_Frisk-0A66C2?logo=linkedin&style=social)](https://www.linkedin.com/in/august-frisk/)
 [![iNaturalist](https://img.shields.io/badge/obad_hai-74AC00?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuklEQVQ4T6VSv0tCURg99z4tI2kIhKIIgpr8E9xarCAKldZ+0VCT0NMIGoIoKHVwKhqyaDOtrdqkIf+BokWIBttqyqLUd2/ffS9Ke1pDd3jc991zzvedcy/DPxdrxtePeUW6RHdiDI+/9WCRLHyxIK5+gqIn2BMC89QhGQsh3EyE6VmsgGMTBgekeOOatrgdMFKKoGcgP4mr8RA2GomYFpYy8NPm4hvAwSB2JMcRBPKqTgIN7dYVqWMB0AYAw9RSh87e9q5y8eVB49rhVsCYm0m7PZ28lGMMfTRf/kuAyFXCa2QH1LVuMc3hN2T11CkxIhgupUCMABH3DbS6CSjQcyYxXMtXeiBVwcUsCe9bylRlohoPwlknsJaadpU6DqZIZJ38e2onUUArUWvHON+NBcSCLRg9jVcy0mZ2oVmtZhbZpH5+pEN6ExO4bZisnuFFCqLHfm1WQIpEb8PkNn2J6rBwhtbBUbxH6T2oCciWGTCRwiSQ/FNAAeh27ojQr/aS/Egh7hOT1v+fAkR+IlCnBaSbYCKXCGKo1prNwnKmxVtBOccZ83BzcDPAa+aEb3sczz9z+TUDe4j2ygfyoIrr0/gOCwAAAABJRU5ErkJggg==&style=social)](https://www.inaturalist.org/people/obad-hai)
-[![Wikipedia](https://img.shields.io/badge/Parasiticfrisk-006699?logo=wikipedia&style=social)](https://en.wikipedia.org/wiki/User:Parasiticfrisk)
+[![Wikimedia](https://img.shields.io/badge/Parasiticfrisk-006699?logo=wikimediafoundation&style=social)](https://meta.wikimedia.org/wiki/User:Parasiticfrisk)
 
 </div>
 
-I am an undergraduate researcher at California State University, Stanislaus studying Geography & Environmental Resources. I am also a citizen scientist with a passion for arachnology, entomology, and human interaction with the environment. I am currently interested in research software engineering, data science, and geospatial analysis.
+I am an undergraduate at California State University, Stanislaus studying Geography & Environmental Resources. I am also a citizen scientist with a passion for arachnology, entomology, and human interaction with the environment. I am currently interested in research software engineering, data science, and geospatial analysis.
 
 <details open="open">
 <summary><h2>Find me around the web 🌐</h2></summary>
 
-To learn more about my work, check out my [ORCID iD](https://orcid.org/0009-0007-9200-8438). Connect with me on [LinkedIn](https://www.linkedin.com/in/august-frisk/). I contribute to the [iNaturalist](https://www.inaturalist.org/people/obad-hai) and [BugGuide](https://bugguide.net/user/view/149082) citizen science platforms. I am also a [Wikipedia](https://en.wikipedia.org/wiki/User:Parasiticfrisk) contributor. Feel free to reach out for collaborations, opportunities, or just to exchange ideas. Let's innovate together!
+To learn more about my work, check out my [ORCID](https://orcid.org/0009-0007-9200-8438). Connect with me on [LinkedIn](https://www.linkedin.com/in/august-frisk/). I contribute to the [iNaturalist](https://www.inaturalist.org/people/obad-hai) and [BugGuide](https://bugguide.net/user/view/149082) citizen science platforms. I am also a [Wikipedia](https://en.wikipedia.org/wiki/User:Parasiticfrisk) contributor. Please reach out to collaborate!
 
 <div align="center">
 
@@ -32,7 +32,7 @@ To learn more about my work, check out my [ORCID iD](https://orcid.org/0009-0007
 <details>
   <summary><h2>Languages and Tools 💻🔧</h2></summary>
 
-Here are some of the languages, frameworks, and tools I have experience with:
+Some languages, frameworks, and tools I have worked with:
 
 <div align="center">
 
@@ -114,28 +114,27 @@ Here are some of the languages, frameworks, and tools I have experience with:
 <details>
 <summary><h2>Accomplishments 🎓📜</h2></summary>
 
-Here are some of the certifications and badges I have earned:
+Some certifications and badges I have earned:
 
 <div align="center">
 
-<!--START_SECTION:badges-->
-[![NASA Open Science](https://images.credly.com/size/55x55/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png)](http://www.credly.com/badges/b12d3a3a-f09e-441e-a669-c66c0c3a0fa3 "NASA Open Science")
-[![Unity Junior Programmer](https://images.credly.com/size/55x55/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/ff513f13-1edb-4a6a-ba6a-3ea65747c2ec "Unity Junior Programmer")
-[![Unity Essentials Pathway](https://images.credly.com/size/55x55/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/40f6d993-c1dd-4d12-aee2-7f0ad937a43e "Unity Essentials Pathway")<!--END_SECTION:badges--><!-- Manually Added -->
+<!--START_SECTION:badges--><!--END_SECTION:badges-->
 [![Getting Started with R for Data Science](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/12b1c767d4b7521fa1df48914a09d303dc707023da2f9c0b4143a5b4f989fdc9 "Getting Started with R for Data Science")
+[![NASA Open Science](https://images.credly.com/size/55x55/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png)](http://www.credly.com/badges/b12d3a3a-f09e-441e-a669-c66c0c3a0fa3 "NASA Open Science")<!--[![Unity Essentials Pathway](https://images.credly.com/size/55x55/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/40f6d993-c1dd-4d12-aee2-7f0ad937a43e "Unity Essentials Pathway")-->
 [![LambdaTest Test Automation Professional Certificate](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/a5a83c8bee2667d7d3c913a8efce74600c1ff3752945cdf5ae287005b7adca6e "LambdaTest Test Automation Professional Certificate")
 [![Improve Your Test Automation with Python Skills](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/b2caaf0f754636d812280e735cacd72e6de21748788d72b258aa42994d761f37 "Improve Your Test Automation with Python Skills")
 [![Getting Started in Test Automation Engineering](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/53f06120ee343fcc239f550415d81a7c7c689a7a26bbb1368992718762b518f7 "Getting Started in Test Automation Engineering")
 [![LambdaTest Software Testing Professional Certificate](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/6a8b123a775837764def563c65c183bc6e3185be2ff85cd75cb8184449bda955 "LambdaTest Software Testing Professional Certificate")
-[![Become a SQL Developer](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/edeefc3d7c6d2fb51689b794a613460b423637617484ed5e147657f8ce30baf6 "Become a SQL Developer")
+[![Unity Junior Programmer](https://images.credly.com/size/55x55/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png)](http://www.credly.com/badges/ff513f13-1edb-4a6a-ba6a-3ea65747c2ec "Unity Junior Programmer")
 [![Master the Fundamentals of AI and Machine Learning](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/fdf2bbc2fc6aacc319471733408f744c72007e5b54ae360276ffdcf4bcb9585b "Master the Fundamentals of AI and Machine Learning")
 [![Advance Your Skills in Python](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/ede540c0aaf5a80d098cb0ff6a0b34ca6e548be2b6f4b3478cd57e7571851559 "Advance Your Skills in Python")
-[![Advance Your Skills in HTML](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/c483533f8ce003c6c7d3b92d4b926961301e72dff2e07ee07b01903130eb8f55 "Advance Your Skills in HTML")
+[![Become a SQL Developer](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/edeefc3d7c6d2fb51689b794a613460b423637617484ed5e147657f8ce30baf6 "Become a SQL Developer")
 [![Build Your Analytical Skills with Statistical Analysis](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/d01fa02b9e16c78a03af9cb5afe705a9a298c0c6bad0a7919466a86a34e070d6 "Build Your Analytical Skills with Statistical Analysis")
 [![Master the OWASP Top 10](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/41127c7e2bcfd98b575fa8c9fd71dc085d8b2033902a908f82afa86863551fd1 "Master the OWASP Top 10")
+[![Advance Your Skills in HTML](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/c483533f8ce003c6c7d3b92d4b926961301e72dff2e07ee07b01903130eb8f55 "Advance Your Skills in HTML")
 [![Become a Python Developer](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/937f0ceb5622ed69bf26b87635042f742e37ff028dc9925b74004f9c88d1beab "Become a Python Developer")
 [![Become a Programmer: Foundations](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/4ffa35f44fe0267a6ef9a4e37f4fa890975f0e0a6616ddd9feaba11a5a7c2c99 "Become a Programmer: Foundations")
-[![TestOut PC Pro Certification](.github/images/testout.png)](https://certification.testout.com/api/certification/ls5/C2MQ7 "TestOut PC Pro Certification")
+<!--[![TestOut PC Pro Certification](.github/images/testout.png)](https://certification.testout.com/api/certification/ls5/C2MQ7 "TestOut PC Pro Certification")-->
 
 </div>
 </details>
