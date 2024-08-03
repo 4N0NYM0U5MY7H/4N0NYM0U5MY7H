@@ -13,8 +13,9 @@ Image credit: [Kim Estoesta](https://www.kimestoesta.com/)
 
 </div>
 
-I am an undergraduate at California State University, Stanislaus studying Geography & Environmental Resources. I am also a citizen scientist with a passion for arachnology, entomology, and human interaction with the environment. I am currently interested in research software engineering, data science, and geospatial analysis.
+I am a Geography & Environmental Resources undergraduate at California State University, Stanislaus. As a citizen scientist, I study arthropod diversity to foster environmental appreciation and public engagement. I am passionate about science literacy and work to bridge the gap between academia and the public. Beyond arthropods, my interests include research software engineering, data science, and geospatial analysis.
 
+<!--
 <details open="open">
 <summary><h2>Find me around the web 🌐</h2></summary>
 
@@ -117,11 +118,12 @@ Some languages, frameworks, and tools I have worked with:
 Some certifications and badges I have earned:
 
 <div align="center">
-
+-->
 <!--START_SECTION:badges--><!--END_SECTION:badges-->
+<!--
 [![Getting Started with R for Data Science](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/12b1c767d4b7521fa1df48914a09d303dc707023da2f9c0b4143a5b4f989fdc9 "Getting Started with R for Data Science")
 [![NASA Open Science](https://images.credly.com/size/55x55/images/d64b24d8-66f3-435a-bc76-2d70c26b0d67/image.png)](http://www.credly.com/badges/b12d3a3a-f09e-441e-a669-c66c0c3a0fa3 "NASA Open Science")<!--[![Unity Essentials Pathway](https://images.credly.com/size/55x55/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png)](http://www.credly.com/badges/40f6d993-c1dd-4d12-aee2-7f0ad937a43e "Unity Essentials Pathway")-->
-[![LambdaTest Test Automation Professional Certificate](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/a5a83c8bee2667d7d3c913a8efce74600c1ff3752945cdf5ae287005b7adca6e "LambdaTest Test Automation Professional Certificate")
+<!--[![LambdaTest Test Automation Professional Certificate](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/a5a83c8bee2667d7d3c913a8efce74600c1ff3752945cdf5ae287005b7adca6e "LambdaTest Test Automation Professional Certificate")
 [![Improve Your Test Automation with Python Skills](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/b2caaf0f754636d812280e735cacd72e6de21748788d72b258aa42994d761f37 "Improve Your Test Automation with Python Skills")
 [![Getting Started in Test Automation Engineering](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/53f06120ee343fcc239f550415d81a7c7c689a7a26bbb1368992718762b518f7 "Getting Started in Test Automation Engineering")
 [![LambdaTest Software Testing Professional Certificate](.github/images/llp-new.png)](https://www.linkedin.com/learning/certificates/6a8b123a775837764def563c65c183bc6e3185be2ff85cd75cb8184449bda955 "LambdaTest Software Testing Professional Certificate")
@@ -135,6 +137,7 @@ Some certifications and badges I have earned:
 [![Become a Python Developer](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/937f0ceb5622ed69bf26b87635042f742e37ff028dc9925b74004f9c88d1beab "Become a Python Developer")
 [![Become a Programmer: Foundations](.github/images/llp-old.png)](https://www.linkedin.com/learning/certificates/4ffa35f44fe0267a6ef9a4e37f4fa890975f0e0a6616ddd9feaba11a5a7c2c99 "Become a Programmer: Foundations")
 <!--[![TestOut PC Pro Certification](.github/images/testout.png)](https://certification.testout.com/api/certification/ls5/C2MQ7 "TestOut PC Pro Certification")-->
-
+<!--
 </div>
 </details>
+-->
