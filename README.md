@@ -11,9 +11,9 @@ Image by: [Kim Estoesta](https://www.kimestoesta.com/)
 ## 🌿 What I Do
 - 🌎 **GIS Student Assistant** — supporting sustainable land management with spatial analysis.
 - 📊 **Geography Research Assistant** — investigating human-environmental interactions.
-- 🦉 **Citizen Scientist (Volunteer)** — contributing to biodiversity monitoring and ecological research.
-- 🌱 **Climate Action Fellow (Volunteer)** — advancing initiatives for climate resiliency and community engagement.
-- 🏞️ **CA State Parks Docent (Volunteer)** — engaging communities in environmental stewardship.
+- 🦉 **Citizen Scientist** — contributing to biodiversity monitoring and ecological research.
+- 🌱 **Climate Action Fellow** — advancing initiatives for climate resiliency and community engagement.
+- 🏞️ **CA State Parks Docent** — engaging communities in environmental stewardship.
 
 ## 🛠️ Technical Skills
 - Programming (Python, JavaScript, R, SQL, C#)
